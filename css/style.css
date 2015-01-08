@@ -1,0 +1,259 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header-back {background-color: #DCDCDC; padding:5px; padding-bottom:5px;}
+.btn-yangu{background-color: #000000;}
+.ic_dimen{ width:250px; height:90px; position:fixed;}
+.desc-right{ margin-top: -30px; margin-left:230px}
+.bodyy{ background-color:#CCC;}
+.desc1{ width:500px;
+		height:300px;
+		background-color:#00C}
+		
+		.navbar-default .navbar-nav > .active > a,.navbar-default .navbar-nav > li:hover > a {border:0 solid  	#191970;border-bottom-width:2px;font-weight:800;background-color:transparent;}
+.navbar-default .dropdown-menu {background-color: 	 	#4682B4;}
+.navbar-default .dropdown-menu li > a {padding-left:30px;}
+
+.header {background-color: #4682B4;border-width:0;}
+.header .navbar-collapse {background-color: #4682B4;}
+.yangu{
+	background-color:#B0C4DE;
+	}
+.nyeupe{
+	background-color:#FFF;
+	margin-top:10px;
+	height:300px;
+	}
+.nyeupe2{
+	margin-top:0px;
+	height:420px;
+	padding-top:20px;
+	margin-top:10px;
+	border-top-style:inset;
+	border-width:50px;
+	border-top-color:#4682B4;
+	text-align:justify;
+	background:#CCC;
+	}
+
+.nyeupe3{
+		background-color:#FFF;
+	margin-top:0px;
+	height:300px;
+	padding-top:20px;
+	margin-top:0px;
+	}
+	
+.nyeupe4{
+	background-color:#DCDCDC;
+	margin-top:0px;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-top:0px;
+	}
+.footer{
+	vertical-align:middle;
+	margin-top:0px;
+	height:520px;
+	padding-top:0px;
+	padding-bottom:20px
+	}
+.chini{
+	margin-top:110px}
+	
+.show{
+	height:300px
+	}
+.jym{
+	height:400px;
+	background-image:url(../img/hand.jpg)}
+.owner{
+	background-image:url(../images/gentleman-wearing-suit-tie-20901184.png);
+	height:400px;
+	text-align:left}
+.righti{
+	
+	border-top:thin;
+	border-top-color:#333;
+	border-top-style:double
+	}
+.det{
+	margin-top:500px}
+.footer{
+	margin-top:10px;
+	height:200px;
+	background-color:#778899
+	}
+.td{
+	
+	padding:50px;}
+.c{
+	margin-top:-50px;}
+.lefti{
+	border:thick;
+	border-color:#000;
+	background:#CCC;
+}
+	
+.tp{
+	margin-top:10px;}
+.chinii{
+	margin-top:100px}
+.boda{
+	vertical-align:middle
+	;
+	background-color:#CCC}
+/*
+9
+9
+9
+((((
+9****
+***/
+/*==================== footer ====================*/
+.footer {
+	background: url(images/bg_header.jpg) bottom;
+	padding: 50px 0;
+	width:100%;
+	margin-top:62px;
+ 	} 
+
+.centr
+{
+text-align:center;
+padding-top: 30px;
+}
+
+.centr a
+{color:#3b3b42; text-decoration:none}
+
+.footer h5{
+	padding-bottom: 30px;
+}   
+
+.footer H4
+{color: #000}
+
+.footer p{
+	color:#000;
+	font-family:Arial, sans-serif, Helvetica;
+	font-size:12px;
+	line-height:18px;
+}  
+
+.footer .center{ 
+	background: none!important;
+	}
+	
+ul.foot li a{
+	display:block;
+	height: 28px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	line-height:25px;
+	padding-left:15px;
+	padding:8px 0 0 40px;
+	color:#000;
+	text-transform:uppercase;
+	text-decoration:none;
+}
+	
+ul.foot li a:hover{
+	color:#f00;
+}
+
+.bg1 {
+	background: url(images/footer_li_bg.png) left top no-repeat;
+}
+
+.bg2 {
+	background: url(images/footer_li_bg.png) left -30px no-repeat;
+}
+
+.bg3 {
+	background: url(images/footer_li_bg.png) left -66px no-repeat;
+}
+
+.bg4 {
+	background: url(images/footer_li_bg.png) left -102px no-repeat;
+}
+
+.policy {
+	background:none;
+	font-family: 'Signika Negative', sans-serif;
+	font-size:14px; 
+	line-height:24px; 
+	color:#000;
+}
+	
+.policy a {
+	cursor:pointer;
+	text-decoration:underline;
+	color:#000;
+	}
+	
+.policy a:hover {
+	cursor:pointer;
+	text-decoration:none;
+	}	
+/* Grid >> Global
+----------------------------------------------------------------------------------------------------*/
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+	{
+	display:inline;
+	float: left;
+	position: relative;
+	}
+	
+/* Grid - content >> Global
+----------------------------------------------------------------------------------------------------*/
+.grid_1{
+	width:300px;
+	float: left;
+	}
+
+.grid_1 h3{
+	text-align:center;
+	}
+
+.grid_2{
+	width:220px;
+	float: left;
+	margin: 0 5px;
+}
+
+.grid_2 h6{
+	text-align:center;
+	}
+
+.grid_3{
+	width:420px;
+	float: left;
+	}
+	
+.grid_4{
+	width:460px;
+	float: left;
+	}	
+
+.grid_5{
+	width:260px;
+	float: left;
+	margin: 0 30px;
+	}
+
+.grid_6{
+	width:640px;
+	float: left;
+	}
+
+.grid_7{
+	width:180px;
+	float: right;
+	}
+
